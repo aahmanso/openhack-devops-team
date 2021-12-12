@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ahmanso/aa5301c9-861b-4f1d-89c7-3124182004eb/38f7177a-35c8-47af-ac75-b2e46039f2e3/_apis/work/boardbadge/51963964-5149-4cd6-aeee-5a76d5232986)](https://dev.azure.com/ahmanso/aa5301c9-861b-4f1d-89c7-3124182004eb/_boards/board/t/38f7177a-35c8-47af-ac75-b2e46039f2e3/Microsoft.RequirementCategory)
 ---
 page_type: sample
 languages:
